@@ -5,6 +5,7 @@ import java.time.LocalDate;
  * This is the BEAN class for Student.
  * Here we have defined what 
  * students' attributes will be.
+ * POJO only.
  * @author Anurag
  * @version 1.0
  */
